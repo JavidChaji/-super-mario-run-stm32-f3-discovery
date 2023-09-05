@@ -26,9 +26,9 @@ FUM Microprocessor STM32F3DISCOVERY Super Mario Run
 [contributors-url]: https://github.com/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/network/members
+[forks-url]: https://github.com/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-RunI/network/members
 
 
 <!-- Stars -->
