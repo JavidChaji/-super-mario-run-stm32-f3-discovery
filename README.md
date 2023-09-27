@@ -16,6 +16,16 @@
 FUM Microprocessor STM32F3DISCOVERY Super Mario Run
 
 
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!-- https://ileriayo.github.io/markdown-badges/ -->
