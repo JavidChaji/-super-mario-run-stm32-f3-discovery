@@ -53,14 +53,8 @@ FUM Microprocessor STM32F3DISCOVERY Super Mario Run
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![C][C.iso]][C-url]
+* [![Arm][Arm.com]][Arm-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,3 +162,10 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
+
+
+[C.iso]: https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white
+[C-url]: https://www.iso.org/standard/74528.html
+
+[Arm.com]: https://img.shields.io/badge/Arm-000000?style=for-the-badge&logo=Arm&logoColor=white
+[Arm-url]: https://www.arm.com/
