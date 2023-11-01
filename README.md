@@ -9,7 +9,7 @@
 
 
 
-[![LinkedIn][linkedin-shield]][javid-linkedin-url]
+[![LinkedIn][linkedin-shield]][javid-linkedin-URL]
 
 # super mario run stm32 f3 discovery
 
@@ -54,8 +54,8 @@ FUM Microprocessor STM32F3DISCOVERY Super Mario Run
 Technologies and Tools Utilized in this Project
 
 
-* [![C][C-Shield]][C-url]
-* [![Arm][Arm.com]][Arm-url]
+* [![C][C-Shield]][C-URL]
+* [![Arm][Arm-Shield]][Arm-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,11 +162,11 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- Linkedin -->
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
-[javid-linkedin-url]: https://linkedin.com/in/javidchaji
+[javid-linkedin-URL]: https://linkedin.com/in/javidchaji
 
 
 [C-Shield]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-[C-url]: https://www.iso.org/standard/74528.html
+[C-URL]: https://www.iso.org/standard/74528.html
 
-[Arm.com]: https://img.shields.io/badge/Arm-000000?style=for-the-badge&logo=Arm&logoColor=white
-[Arm-url]: https://www.arm.com/
+[Arm-Shield]: https://img.shields.io/badge/Arm-000000?style=for-the-badge&logo=Arm&logoColor=white
+[Arm-URL]: https://www.arm.com/
