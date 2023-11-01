@@ -168,5 +168,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [C-Shield]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 [C-URL]: https://www.iso.org/standard/74528.html
 
-[Arm-Shield]: https://img.shields.io/badge/Arm-000000?style=for-the-badge&logo=Arm&logoColor=white
+[Arm-Shield]: https://img.shields.io/badge/Arm-022600?style=for-the-badge&logo=Arm&logoColor=white
 [Arm-URL]: https://www.arm.com/
