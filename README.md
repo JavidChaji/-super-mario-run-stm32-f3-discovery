@@ -1,15 +1,15 @@
 <a name="readme-top"></a>
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Contributors][Contributors-Shield]][Contributors-URL]
+[![Forks][Forks-Shield]][Forks-URL]
+[![Stargazers][Stars-Shield]][Stars-URL]
+[![Issues][Issues-Shield]][Issues-URL]
+[![MIT License][License-Shield]][License-URL]
 
 
 
-[![LinkedIn][linkedin-shield]][javid-linkedin-URL]
+[![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
 
 # super mario run stm32 f3 discovery
 
@@ -131,38 +131,38 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run.svg?style=for-the-badge
+[Contributors-Shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run/graphs/contributors
+[Contributors-URL]: https://github.com/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run.svg?style=for-the-badge
+[Forks-Shield]: https://img.shields.io/github/forks/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-RunI/network/members
+[Forks-URL]: https://github.com/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-RunI/network/members
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run.svg?style=for-the-badge
+[Stars-Shield]: https://img.shields.io/github/stars/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run/stargazers
+[Stars-URL]: https://github.com/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run/stargazers
 
 
 <!-- Issues -->
-[issues-shield]: https://img.shields.io/github/issues/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run.svg?style=for-the-badge
+[Issues-Shield]: https://img.shields.io/github/issues/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run.svg?style=for-the-badge
 
-[issues-url]: https://github.com/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run/issues
+[Issues-URL]: https://github.com/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run/issues
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run.svg?style=for-the-badge
+[License-Shield]: https://img.shields.io/github/license/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run/blob/master/LICENSE
+[License-URL]: https://github.com/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run/blob/master/LICENSE
 
 
-<!-- Linkedin -->
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+<!-- LinkedIn -->
+[LinkedIn-Shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
-[javid-linkedin-URL]: https://linkedin.com/in/javidchaji
+[Javid-LinkedIn-URL]: https://linkedin.com/in/javidchaji
 
 
 [C-Shield]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
