@@ -1,13 +1,10 @@
 <a name="readme-top"></a>
 
-
 [![Contributors][Contributors-Shield]][Contributors-URL]
 [![Forks][Forks-Shield]][Forks-URL]
 [![Stargazers][Stars-Shield]][Stars-URL]
 [![Issues][Issues-Shield]][Issues-URL]
 [![MIT License][License-Shield]][License-URL]
-
-
 
 [![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
 
@@ -45,22 +42,14 @@ FUM Microprocessor STM32F3DISCOVERY Super Mario Run
 
 
 
-
-
-
-
 ### Built With
 
 Technologies and Tools Utilized in this Project
-
 
 * [![C][C-Shield]][C-URL]
 * [![Arm][Arm-Shield]][Arm-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 
 
@@ -82,14 +71,12 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -101,7 +88,6 @@ Javid Chaji - [@JavidChaji](https://twitter.com/JavidChaji) - javid.chaji@gmail.
 Project Link: [https://github.com/JavidChaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run](https://github.com/JavidChaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -120,9 +106,6 @@ Use this space to list resources you find helpful and would like to give credit 
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 
 
@@ -165,8 +148,13 @@ Use this space to list resources you find helpful and would like to give credit 
 [Javid-LinkedIn-URL]: https://linkedin.com/in/javidchaji
 
 
+<!-- C -->
 [C-Shield]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+
 [C-URL]: https://www.iso.org/standard/74528.html
 
+
+<!-- Arm -->
 [Arm-Shield]: https://img.shields.io/badge/Arm-022600?style=for-the-badge&logo=Arm&logoColor=white
+
 [Arm-URL]: https://www.arm.com/
