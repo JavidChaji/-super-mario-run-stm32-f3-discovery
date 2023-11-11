@@ -42,6 +42,11 @@ FUM Microprocessor STM32F3DISCOVERY Super Mario Run
 
 
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+
+
 ### Built With
 
 Technologies and Tools Utilized in this Project
