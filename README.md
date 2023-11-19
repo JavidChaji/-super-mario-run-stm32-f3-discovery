@@ -99,8 +99,6 @@ Project Link: [https://github.com/JavidChaji/FUM-Microprocessor-STM32F3DISCOVERY
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
@@ -122,6 +120,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Contributors-Shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run.svg?style=for-the-badge
 
 [Contributors-URL]: https://github.com/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run/graphs/contributors
+
 
 <!-- Forks -->
 [Forks-Shield]: https://img.shields.io/github/forks/javidchaji/FUM-Microprocessor-STM32F3DISCOVERY-Super-Mario-Run.svg?style=for-the-badge
